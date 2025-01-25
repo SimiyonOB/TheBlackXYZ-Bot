@@ -242,7 +242,7 @@ ________________________________________________________________________________
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TheBlackxyz/TheBlackXYZ-Bot&branch=Black&name=TheBlackXYZ-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/SimiyonOB/TheBlackXYZ-Bot&branch=Black&name=TheBlackXYZ-Bot)
 </details>
 
 <details><summary><b>Deploy To Render</b></summary>
@@ -269,7 +269,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TheBlackxyz/TheBlackXYZ-Bot/tree/Black">
+<a href="https://render.com/deploy?repo=https://github.com/SimiyonOB/TheBlackXYZ-Bot/tree/Black">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -277,7 +277,7 @@ Use these settings when adding a monitor:</b>
 <details><summary><b>Deploy To VPS</summary>
 
 
-`git clone https://github.com/TheBlackxyz/TheBlackXYZ-Bot`
+`git clone https://github.com/SimiyonOB/TheBlackXYZ-Bot`
 
 Install Packages
 
